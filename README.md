@@ -1,0 +1,2 @@
+# sharedData
+laravel shared data
